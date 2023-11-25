@@ -10,7 +10,7 @@
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414629_1.jpg)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414630_1.png)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414631_1.png)
-![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414635_1%20(1).png)
+![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414635_1.png)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414636_1.png)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414637_1.png)
 
