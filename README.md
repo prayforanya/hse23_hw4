@@ -5,7 +5,7 @@
 В папке FASTQC лежат отчеты
 Все риды высокого качетсва
 
-#Скрины анализа ридов
+# Скрины анализа ридов
 
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414629_1.png)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414630_1.png)
