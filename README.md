@@ -3,7 +3,6 @@
 [Ссылка на Google Colab для первой части](https://colab.research.google.com/drive/1C-eQmqNrEetgjtt2zLUMsYimcT7OthCe?usp=sharing)
 
 В папке FASTQC лежат отчеты
-Все риды высокого качетсва
 
 # Скрины анализа ридов
 
@@ -13,6 +12,8 @@
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414635_1.png)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414636_1.png)
 ![image](https://github.com/prayforanya/hse23_hw4/blob/main/images/SRR3414637_1.png)
+
+Все риды высокого качетсва
 
 ## Таблица с информацией по образцам  
 | ID | Тип | Общее число исходных чтений | Число и процент успешно откартированных чтений (не уникальные) | Число и процент успешно откартированных чтений (уникальные) | Общее число чтений, попавших на гены |
