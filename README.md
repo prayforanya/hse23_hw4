@@ -1,6 +1,6 @@
 # hse23_hw4
   
-[Ссылка на Google Colab для первой части]()
+[Ссылка на Google Colab для первой части](https://colab.research.google.com/drive/1C-eQmqNrEetgjtt2zLUMsYimcT7OthCe?usp=sharing)
 
 В папке FASTQC лежат отчеты
 Все риды высокого качетсва
